@@ -44,4 +44,4 @@ Christopher Zenner, Yuko Uda, Brittany-Renee Davis
 
 ## Helpful Links
 * [Presentation Slides](https://docs.google.com/presentation/d/1c-VUgYBjS09AjHnAK8YAVp3cPgb_0q0bc6mAjjp2gwg/edit?ts=5e88b77f#slide=id.g72af502572_0_1)
-* [Live Demo](https://christopherzenner.dev/fsf-proj-01/)
+* [Live Demo](https://yuda0110.github.io/cook-quik/)
